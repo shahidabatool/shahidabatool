@@ -14,13 +14,21 @@
 
 \- \*\*Application for Citizenship Preparation (UK \& Canada)\*\*
 
-
+\- \*\*Machine Learning for Health Risk Insights\*\*
 
 📫 Contact: shahida.batool01@gmail.com  
 
 
 
-Projects will be added here soon!
+
+
+
+
+\## Books 
+\- \*\*Storytelling with Data by Cole Nussbaumer Knaflic\*\*
+
+
+
 
 
 
