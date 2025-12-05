@@ -16,6 +16,13 @@
 
 \- \*\*Machine Learning for Health Risk Insights\*\*
 
+
+
+
+
+\## Books 
+\- \*\*Storytelling with Data by Cole Nussbaumer Knaflic\*\*
+
 📫 Contact: shahida.batool01@gmail.com  
 
 
@@ -24,8 +31,6 @@
 
 
 
-\## Books 
-\- \*\*Storytelling with Data by Cole Nussbaumer Knaflic\*\*
 
 
 
