@@ -23,7 +23,10 @@
 
 
 \## Books 
-\- \*\*Storytelling with Data by Cole Nussbaumer Knaflic\*\*
+\- \*\*Lecture notes in Machine Learning by Dr V N Krishanchandran\*\*
+\- \*\*Speech and Language Processing by Daniel Jurafsky\*\*
+
+
 
 📫 Contact: shahida.batool01@gmail.com  
 
