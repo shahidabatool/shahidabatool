@@ -14,18 +14,15 @@
 
 \- \*\*Application for Citizenship Preparation (UK \& Canada)\*\*
 
-\## Books 
-
 \- \*\*Machine Learning for Health Risk Insights\*\*
 
 \- \*\*Recommendation system using amazon dataset\*\*
 
 
 
-
-
 \## Books 
 \- \*\*Lecture notes in Machine Learning by Dr V N Krishanchandran\*\*
+
 \- \*\*Speech and Language Processing by Daniel Jurafsky\*\*
 
 
