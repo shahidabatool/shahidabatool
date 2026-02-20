@@ -20,7 +20,8 @@
 
 
 
-\## Books 
+\## Books
+
 \- \*\*Lecture notes in Machine Learning by Dr V N Krishanchandran\*\*
 
 \- \*\*Speech and Language Processing by Daniel Jurafsky\*\*
