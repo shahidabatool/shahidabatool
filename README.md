@@ -1,44 +1,45 @@
-\Hi, I'm Shahida Batool 👋
+# Hi, I'm Shahida Batool 👋
 
+🎓 Master's Student in Data Science @ Toronto Metropolitan University (Graduating August 2026)  
+🔬 Background in Bioinformatics & Drug Discovery | Transitioning into Data Science & AI  
+🌍 Based in Toronto, Canada  
+🚀 Building at the intersection of AI, NLP, and Life Sciences  
 
+---
 
-🎓 Currently pursuing a Master’s in Data Science  
+## 🛠️ Tech Stack
 
-💻 Skills: Python | PySpark | R | MATLAB | C++ | SQL | Power BI  
+**Languages:** Python | R | SQL | MATLAB | C++ | PySpark  
+**ML/DL:** PyTorch | TensorFlow | Keras | Scikit-learn | PennyLane  
+**NLP & LLMs:** LangChain | HuggingFace | FAISS | ChromaDB | Groq | OpenAI | Gemini | Mistral | Claude  
+**Data & Viz:** Pandas | NumPy | Matplotlib | Seaborn | Power BI  
+**Tools:** Git | Google Colab | Streamlit | Jupyter  
 
-📂 Planning projects in: Data Analysis, Machine Learning, Dashboards, Algorithm Implementation  
+---
 
+## 🔬 Featured Projects
 
+### 🌌 [Ising Model Phase Transition — Classical & Quantum ML](https://github.com/shahidabatool/Ising-Model-Phase-Transition-Discovery-Classical-and-Quantum-Machine-Learning-)
+CNN, VGG16, and Hybrid Quantum ML models trained to detect phase transitions in the 2D Ising model, benchmarked against Onsager's exact critical temperature (Tc ≈ 2.269). Built with PyTorch and PennyLane.
 
-\## Projects
+### 📚 [Academic Literature RAG Assistant](https://github.com/shahidabatool/Academic-Literature-RAG-Assistant)
+Multi-provider RAG chatbot supporting OpenAI, Gemini, Claude, Mistral, and Groq — built with LangChain, ChromaDB, and HuggingFace embeddings. Supports PDF, DOCX, XLSX, and PPTX ingestion. 🚧 Actively developed as part of MRP at TMU.
 
-\- \*\*Application for Citizenship Preparation (UK \& Canada)\*\*
+### 🏥 [Machine Learning for Health Risk Insights](https://github.com/shahidabatool/Machine-Learning-for-Health-Risk-Insights)
+ML pipeline for health risk prediction using lifestyle data from Kaggle. Covers data preprocessing, feature engineering, and classification models in Python.
 
-\- \*\*Machine Learning for Health Risk Insights\*\*
+### 🇨🇦 [Citizenship Test Prep App](https://github.com/shahidabatool/citizenship-app)
+Full-stack web application built with Next.js and React for interactive citizenship test preparation for Canada and the UK.
 
-\- \*\*Recommendation system using amazon dataset\*\*
+---
 
+## 📊 GitHub Stats
 
+![Shahida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahidabatool&show_icons=true&theme=default&hide_border=true)
 
-\## Books
+---
 
-\- \*\*Lecture notes in Machine Learning by Dr V N Krishanchandran\*\*
+## 🤝 Connect With Me
 
-\- \*\*Speech and Language Processing by Daniel Jurafsky\*\*
-
-
-
-📫 Contact: shahida.batool01@gmail.com  
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahidabatool-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shahidabatool/)
+[![Email](https://img.shields.io/badge/Email-shahida.batool01@gmail.com-red?style=flat&logo=gmail)](mailto:shahida.batool01@gmail.com)
