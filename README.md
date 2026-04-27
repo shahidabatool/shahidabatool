@@ -33,9 +33,13 @@ Full-stack web application built with Next.js and React for interactive citizens
 
 ---
 
-## 📊 GitHub Stats
+---
 
-![Shahida's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahidabatool&show_icons=true&theme=default&hide_border=true)
+## 📈 What I'm Currently Working On
+
+- 🧠 MRP Research @ TMU — RAG system for academic literature (BPA domain)
+- 📖 Finishing Master's in Data Science (August 2026)
+- 🌐 Building my data science portfolio
 
 ---
 
