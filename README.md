@@ -36,8 +36,8 @@ Full-stack web application built with Next.js and React for interactive citizens
 ---
 
 ## 📈 What I'm Currently Working On
-
-- 🧠 MRP Research @ TMU — RAG system for academic literature (BPA domain)
+-    Working on GlowSense 
+- 🧠 MRP Research @ TMU — Bloodstain Pattern Analaysis tool
 - 📖 Finishing Master's in Data Science (August 2026)
 - 🌐 Building my data science portfolio
 
